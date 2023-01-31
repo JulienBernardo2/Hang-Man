@@ -1,0 +1,7 @@
+monopoly
+battleship
+sorry
+risk
+uno
+jenga
+clue

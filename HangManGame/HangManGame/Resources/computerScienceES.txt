@@ -1,0 +1,8 @@
+circulo
+objeto
+iteracion
+programacion
+recopilacion
+recursion
+lambda
+metodos

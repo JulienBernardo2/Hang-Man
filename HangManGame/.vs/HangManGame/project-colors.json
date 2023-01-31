@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3c9a2c7-fd0e-460f-bee9-0defe5ae967c": {
+      "ProjectGuid": "b3c9a2c7-fd0e-460f-bee9-0defe5ae967c",
+      "DisplayName": "HangManGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
